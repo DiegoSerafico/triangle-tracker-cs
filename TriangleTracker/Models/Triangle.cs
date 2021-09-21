@@ -55,10 +55,10 @@ namespace TriangleTracker.Models
       {
         return "Sorry, those side lengths do not make a triangle";
       }
-      // else if (CheckEquilateral())
-      // {
-      //   return ""
-      // }
+      else if (CheckEquilateral())
+      {
+        return "Your triangle is an equilateral";
+      }
       return "testing";
     }
   }
