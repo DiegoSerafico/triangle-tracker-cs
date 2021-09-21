@@ -31,5 +31,11 @@ namespace TriangleTracker.Tests
       Triangle testTriangle = new Triangle(4, 7, 6);
       Assert.AreEqual(true, testTriangle.CheckScalene());
     }
+
+    [TestMethod]
+    public void CheckValidTriangle_CheckForValidTriangle_True() {
+      Triangle testTriangle = new Triangle(4, 5, 10);
+      Assert.AreEqual(true, testTriangle.CheckValidTriangle());
+    }
   }
 }

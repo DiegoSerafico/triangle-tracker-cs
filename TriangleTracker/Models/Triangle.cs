@@ -40,5 +40,10 @@ namespace TriangleTracker
       }
       return false;
     }
+
+    public bool CheckValidTriangle()
+    {
+      return false;
+    }
   }
 }
