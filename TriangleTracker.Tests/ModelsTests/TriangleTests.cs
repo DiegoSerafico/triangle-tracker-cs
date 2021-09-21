@@ -47,7 +47,7 @@ namespace TriangleTracker.Models.Tests
     [TestMethod]
     public void CheckType_CheckUsersTriangleIsEquilateral_StringAnswer() {
       Triangle testTriangle = new Triangle(3, 3, 3);
-      Assert.AreEqual("Your triangle is an equilateral", testTriangle.CheckType());
+      Assert.AreEqual("Your triangle is an Equilateral", testTriangle.CheckType());
     }
 
     [TestMethod]
