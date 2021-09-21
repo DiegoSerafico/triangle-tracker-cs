@@ -32,6 +32,9 @@ namespace TriangleTracker
       return false;
     }
 
-
+    public bool CheckScalene()
+    {
+      return false;
+    }
   }
 }
