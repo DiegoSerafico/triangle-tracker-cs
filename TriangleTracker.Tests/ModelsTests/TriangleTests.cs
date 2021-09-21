@@ -13,6 +13,3 @@ namespace TriangleTracker.Tests
     }
   }
 }
-
-Initialized empty Git repository in C:/Users/diego/OneDrive/Desktop/epicodus/Triangle-Tracker/TriangleTracker.Tests/.git/
-git rm -rf ./TriangleTracker.Tests/.git

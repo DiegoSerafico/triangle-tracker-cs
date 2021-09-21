@@ -1,2 +1,4 @@
-/bin
-/obj
+TriangleTracker/bin
+TriangleTracker/obj
+TriangleTracker.Tests/bin
+TriangleTracker.Tests/obj
