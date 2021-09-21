@@ -1,0 +1,12 @@
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\obj\Debug\net5.0\TriangleTracker.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\obj\Debug\net5.0\TriangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\obj\Debug\net5.0\TriangleTracker.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\obj\Debug\net5.0\TriangleTracker.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\obj\Debug\net5.0\TriangleTracker.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\bin\Debug\net5.0\TriangleTracker.deps.json
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\bin\Debug\net5.0\TriangleTracker.dll
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\bin\Debug\net5.0\ref\TriangleTracker.dll
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\bin\Debug\net5.0\TriangleTracker.pdb
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\obj\Debug\net5.0\TriangleTracker.dll
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\obj\Debug\net5.0\ref\TriangleTracker.dll
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker\obj\Debug\net5.0\TriangleTracker.pdb
