@@ -43,5 +43,11 @@ namespace TriangleTracker.Models.Tests
     Triangle testTriangle = new Triangle(4, 5, 10);
     Assert.AreEqual("Sorry, those side lengths do not make a triangle", testTriangle.CheckType());
     }
+
+    [TestMethod]
+    public void CheckType_CheckUsersTriangleIsEquilateral_StringAnswer() {
+    Triangle testTriangle = new Triangle(3, 3, 3);
+    Assert.AreEqual("Your triangle is an equilateral", testTriangle.CheckType());
+    }
   }
 }
