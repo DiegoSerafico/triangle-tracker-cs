@@ -59,6 +59,10 @@ namespace TriangleTracker.Models
       {
         return "Your triangle is an equilateral";
       }
+      else if (CheckIsosceles())
+      {
+        return "Your triangle is an Isosceles";
+      }
       return "testing";
     }
   }
