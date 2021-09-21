@@ -43,7 +43,11 @@ namespace TriangleTracker
 
     public bool CheckValidTriangle()
     {
-      return false;
+      if (Side1 > (Side2 + Side3) || Side2 > (Side1 + Side3) || Side3 > (Side1 + Side2))
+      {
+        return false;
+      }
+      return true;
     }
   }
 }
