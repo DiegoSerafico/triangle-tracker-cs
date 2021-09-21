@@ -51,6 +51,10 @@ namespace TriangleTracker.Models
     }
 
     public string CheckType() {
+      if (!CheckValidTriangle())
+      {
+        return "Sorry, those side lengths do not make a triangle";
+      }
       return "testing";
     }
   }
