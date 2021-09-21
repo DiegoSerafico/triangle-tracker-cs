@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TriangleTracker;
+using TriangleTracker.Models;
 
-namespace TriangleTracker.Tests
+namespace TriangleTracker.Models.Tests
 {
   [TestClass]
   public class TriangleTests
@@ -36,6 +36,12 @@ namespace TriangleTracker.Tests
     public void CheckValidTriangle_CheckForValidTriangle_True() {
       Triangle testTriangle = new Triangle(4, 5, 10);
       Assert.AreEqual(false, testTriangle.CheckValidTriangle());
+    }
+
+    [TestMethod]
+    public void CheckType_CheckUsersTriangleType_StringAnswer() {
+    Triangle testTriangle = new Triangle(4, 5, 10);
+    Assert.AreEqual("Sorry, those side lengths do not make a triangle", testTriangle.CheckType());
     }
   }
 }

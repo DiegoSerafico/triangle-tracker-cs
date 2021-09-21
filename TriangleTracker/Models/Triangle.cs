@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace TriangleTracker
+namespace TriangleTracker.Models
 {
   public class Triangle
   {
@@ -48,6 +48,10 @@ namespace TriangleTracker
         return false;
       }
       return true;
+    }
+
+    public string CheckType() {
+      return "testing";
     }
   }
 }

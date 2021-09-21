@@ -98,3 +98,4 @@ C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker.Tests\
 C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker.Tests\obj\Debug\net5.0\ref\TriangleTracker.Tests.dll
 C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker.Tests\obj\Debug\net5.0\TriangleTracker.Tests.pdb
 C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker.Tests\obj\Debug\net5.0\TriangleTracker.Tests.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Desktop\epicodus\Triangle-Tracker\TriangleTracker.Tests\bin\Debug\net5.0\TriangleTracker.exe
