@@ -15,11 +15,18 @@ namespace TriangleTracker
       Side3 = side3;
     }
     
-    public bool CheckEquilateral() {
+    public bool CheckEquilateral()
+    {
+      if (Side1 == Side2 && Side2 == Side3 && Side1 == Side3) {
+        return true;
+      }
       return false;
     }
      
-
+    public bool CheckIsosceles()
+    {
+      return false;
+    }
 
 
   }
