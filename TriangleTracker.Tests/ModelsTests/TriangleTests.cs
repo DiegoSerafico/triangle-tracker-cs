@@ -55,5 +55,11 @@ namespace TriangleTracker.Models.Tests
       Triangle testTriangle = new Triangle(4, 4, 5);
       Assert.AreEqual("Your triangle is an Isosceles", testTriangle.CheckType());
     }
+
+    [TestMethod]
+    public void CheckType_CheckUsersTriangleIsScalene_StringAnswer() {
+      Triangle testTriangle = new Triangle(4, 7, 6);
+      Assert.AreEqual("Your triangle is a Scalene", testTriangle.CheckType());
+    }
   }
 }
