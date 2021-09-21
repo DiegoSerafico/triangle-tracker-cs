@@ -25,6 +25,10 @@ namespace TriangleTracker
      
     public bool CheckIsosceles()
     {
+      if (Side1 == Side2 || Side2 == Side3 || Side1 == Side3)
+      {
+        return true;
+      }
       return false;
     }
 
